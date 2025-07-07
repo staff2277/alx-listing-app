@@ -1,3 +1,3 @@
 function hi() {
-  return "How are u doing";
+  return "How are you doing";
 }
